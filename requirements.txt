@@ -1,0 +1,6 @@
+numpy==2.2.2
+opencv_python==4.5.5.64
+pandas==2.2.3
+pygame==2.6.1
+scikit_learn==1.6.1
+skimage==0.0
